@@ -11,7 +11,7 @@
         "name": "iOS",
         "level": "intermediate"
       },
-      "date_created": "2020-08-12T14:50:23z"
+      "date_created": "2020-08-12T14:50:23+0000"
     },
     { 
       "id": "1",
@@ -24,7 +24,7 @@
         "name": "iOS",
         "level": "intermediate"
       },
-      "date_created": "2020-08-11T20:50:23z"
+      "date_created": "2020-08-11T20:50:23+0000"
     },
     { 
       "id": "2",
@@ -37,7 +37,7 @@
         "name": "iOS",
         "level": "intermediate"
       },
-      "date_created": "2020-06-11T20:50:23z"
+      "date_created": "2020-06-11T20:50:23+0000"
     },
     { 
       "id": "3",
@@ -50,7 +50,7 @@
         "name": "iOS",
         "level": "intermediate"
       },
-      "date_created": "2020-08-8T20:50:23z"
+      "date_created": "2020-08-8T20:50:23+0000"
     }
   ]
 }
